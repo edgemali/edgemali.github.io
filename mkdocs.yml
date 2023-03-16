@@ -1,14 +1,15 @@
 site_name: ML at the Edge in Mali
+site_url: https://edgemali.github.io/2023
 
 nav:
   - 2023:
-    - ./2023/index.md
-    - ./2023/program.md
-    - ./2023/application.md
-    - ./2023/call_paper.md
-    - ./2023/competition.md
-    - ./2023/sponsors.md
-    - ./2023/faqs.md
+    - ./2023/index.en.md
+    - ./2023/program.en.md
+    - ./2023/application.en.md
+    - ./2023/call_paper.en.md
+    - ./2023/competition.en.md
+    - ./2023/sponsors.en.md
+    - ./2023/faqs.en.md
 
 theme:
   language: en
@@ -32,15 +33,54 @@ theme:
     - header.autohide
     - navigation.top
 
-plugins: []
+plugins:
+  - search
+  - i18n :
+      default_language: en
+      languages:
+        en: English
+        fr: Français
+  - social:
+      cards_font: Roboto
+      cards_dir: .cache/plugin/social
+      cards_color:
+        fill: "#0FF1CE" 
+        text: "#FFFFFF"
 
 copyright: Copyright &copy; 2023 RobotsMali. Proudly made with Material for MkDocs.
 extra:
+
   generator: false
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Français
-      link: null
-      lang: fr
+
+  version:
+    provider: mike
+
+  social:
+    - icon: fontawesome/brands/facebook
+      link: 
+      name: RobotsMali on Facebook
+
+    - icon: fontawesome/brands/instagram
+      link: 
+      name: RobotsMali on Instagram
+    
+    - icon: fontawesome/brands/linkedin
+      link: 
+      name: RobotsMali on Linkedin
+
+    - icon: fontawesome/brands/github
+      link: 
+      name: RobotsMali on Github
+
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<email-address>
+      name: Our Email
+
+markdown_extensions:
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - admonition
