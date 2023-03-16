@@ -1,0 +1,46 @@
+site_name: ML at the Edge in Mali
+
+nav:
+  - 2023:
+    - ./2023/index.md
+    - ./2023/program.md
+    - ./2023/application.md
+    - ./2023/call_paper.md
+    - ./2023/competition.md
+    - ./2023/sponsors.md
+    - ./2023/faqs.md
+
+theme:
+  language: en
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: white
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      accent: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.top
+
+plugins: []
+
+copyright: Copyright &copy; 2023 RobotsMali. Proudly made with Material for MkDocs.
+extra:
+  generator: false
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Français
+      link: null
+      lang: fr
