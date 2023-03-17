@@ -1,67 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://edgemali.github.io/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/application/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/application/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/application/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/call_paper/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/call_paper/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/call_paper/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/competition/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/competition/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/competition/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/faqs/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/faqs/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/faqs/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/program/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/program/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/program/"/>
-         
     </url>
     <url>
          <loc>https://edgemali.github.io/2023/sponsors/</loc>
          <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="en" href="https://edgemali.github.io/en/2023/sponsors/"/>
-         <xhtml:link rel="alternate" hreflang="fr" href="https://edgemali.github.io/fr/2023/sponsors/"/>
-         
     </url>
 </urlset>
