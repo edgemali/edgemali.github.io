@@ -34,7 +34,7 @@ theme:
     - navigation.top
 
 plugins:
-  - search
+  #- search
   - i18n :
       default_language: en
       languages:
