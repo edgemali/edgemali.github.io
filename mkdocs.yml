@@ -1,5 +1,5 @@
 site_name: ML at the Edge in Mali
-site_url: https://edgemali.github.io
+#site_url: https://edgemali.github.io
 
 nav:
   - 2023:
