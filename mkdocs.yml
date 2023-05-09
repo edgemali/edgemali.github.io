@@ -69,6 +69,10 @@ extra:
       link: https://github.com/edgemali
       name: EdgeAI Mali on Github
 
+  analytics:
+    provider: google
+    property: G-2J2Q88T05Y
+
 markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed:

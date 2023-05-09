@@ -69,7 +69,7 @@
 > An application form is opened for general participations, refer to [apply](./application/).
 
 ### Call for Papers / Participation
-> Join the activity as presenter either a research project or a poster. We invite researhers to submit papers. Read more about the [call](./call_paper/).
+> Join the activity as presenter either a research project or a poster. We invite researchers to submit papers. Read more about the [call](./call_paper/).
 
 ## Contact & More Info
 |    |    |    |
