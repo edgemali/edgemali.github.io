@@ -1,6 +1,8 @@
-# Overview
+# Call for papers
 
-> *The scientific culture in the country is underdeveloped, with minimal publications attributed to Malian authors and researchers. We would like to use this forum to bring together and encourage aspiring researchers and researchers from diverse fields to investigate various subjects related to machine learning or work on projects for local downstream applications. This call is not limited to academic research, industry solutions worthy of highlights should submit as well. Although we are not a big research venue, we encourage both Malians abroad and local researchers to submit work, to be presented and showcased. Candidates have the possibility to submit a full research paper (completed or preliminary manuscripts), or position paper responding to one or more of the underlying themes of the workshop.*
+> *The scientific community in Mali is currently limited, with few publications from Malian authors and researchers. To address this gap, we are hosting a forum to encourage and bring together aspiring and established researchers from diverse fields to explore various subjects related to machine learning and work on projects with local applications. We welcome submissions from both academic researchers and industry professionals, and we aim to showcase a range of innovative solutions.*
+
+> *While we may not be a large research venue, we invite both Malians abroad and local researchers to submit their work for presentation and discussion. We welcome full research papers, as well as preliminary manuscripts and position papers, that respond to one or more of the underlying themes of the workshop. We hope that this initiative will contribute to the growth of the scientific community in Mali and inspire more research in this field. Potential questions that can be considered are: *
 
 > * ***`How to make ML research be cheaper for communities with limited resources?`***
 > * ***`What are strategies and techniques to overcome the limitation in resources?`***
@@ -9,15 +11,15 @@
 > * ***`Low-cost efficient Machine Learning Algorithms`***
 > * ***`Embedded Machine Learning`***
 
-> *For the position papers you are not limited to the points highlighted you can also respond your own questions. You can also join our weekly office hours [slot] if you need to learn more about the call.*
+> *In addition to addressing the themes highlighted in the call, we welcome position papers that explore other relevant questions or perspectives. If you have any questions about the call or would like to learn more about the submission process, we encourage you to join our weekly office hours on [day and time slot]. Our team will be available to provide guidance and answer any questions you may have.*
 
-**`Dates`**
+**Dates**
 
-> Submission Deadline: May 12th,2023 @**11:59 pm AoE**
+> Submission Deadline: June 11th,2023 @**11:59 pm AoE**
 >
-> Notification Acceptance: May 26th, 2023
+> Notification Acceptance: June 18th, 2023
 >
-> * Camera-Ready / Posters Due: June 23th 2023
+> Camera-Ready / Posters Due: June 25th 2023 @**11:59 pm AoE**
 
 **Submission**
 
@@ -25,8 +27,9 @@
 | -------------------------------------- | ------------------------------------- |
 | *French / English*                   | *French / English / Bambara*        |
 | *6 – 14 pages (exclude references)* | *2 – 8 pages (exclude references)* |
-
-| Anonymous Submission                                                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Template :** [https://www.overleaf.com/latex/templates/eacl-2023-proceedings-template/fvjkskgsmgnh](https://www.overleaf.com/latex/templates/eacl-2023-proceedings-template/fvjkskgsmgnh) |
-| **Submit to:** [research@robotsmali.org](mailto:research@robotsmali.org)                                                                                                                    |
+||
+| **Anonymous Submission**  |
+||
+| **ACM Template :** [https://www.overleaf.com/latex/templates/eacl-2023-proceedings-template/fvjkskgsmgnh](https://www.overleaf.com/latex/templates/eacl-2023-proceedings-template/fvjkskgsmgnh) |
+||
+| **Submit to:** [research@robotsmali.org](mailto:research@robotsmaliorg) with subject line ***EdgeML:*** **\{Paper Title\}**|

@@ -7,12 +7,13 @@ nav:
     - ./2023/program.en.md
     - ./2023/application.en.md
     - ./2023/call_paper.en.md
-    - ./2023/competition.en.md
     - ./2023/sponsors.en.md
     - ./2023/faqs.en.md
 
 theme:
   language: en
+  favicon: assets/images/E4mL.png
+  logo: assets/images/E4mLfull.png
   name: material
   palette:
     - scheme: default
@@ -56,25 +57,17 @@ extra:
     provider: mike
 
   social:
-    - icon: fontawesome/brands/facebook
-      link: 
-      name: RobotsMali on Facebook
-
-    - icon: fontawesome/brands/instagram
-      link: 
-      name: RobotsMali on Instagram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mali_ml223
+      name: EdgeAI Mali on Twitter
     
-    - icon: fontawesome/brands/linkedin
-      link: 
-      name: RobotsMali on Linkedin
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/G4EVEK4jPe
+      name: EdgeAI Mali on Linkedin
 
     - icon: fontawesome/brands/github
-      link: 
-      name: RobotsMali on Github
-
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:<email-address>
-      name: Our Email
+      link: https://github.com/edgemali
+      name: EdgeAI Mali on Github
 
 markdown_extensions:
   - pymdownx.details
