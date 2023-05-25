@@ -1,12 +1,16 @@
 # ML à la périphérie : IA moins chère
 
 ## Annonces
+- [**05/27 à 14h00**] Séance de questions/réponses de l'atelier (link TBA)
 
 ## Aperçu
 
 > Les chercheurs de la région du Sahel ont du mal à mener des recherches efficaces en raison principalement du manque de ressources nécessaires. Les progrès récents de l'apprentissage automatique ont ouvert un certain nombre d'opportunités de recherche et de solutions intelligentes pour le monde en développement. L'ingéniosité limitée en soi est un problème qui doit être résolu, ce qui en fait une avenue pour les chercheurs de la région. L'atelier sera centré sur Edge AI en tant qu'étude de cas et vise à rassembler un traîneau de chercheurs, de chercheurs en herbe, de praticiens et d'étudiants pour explorer la recherche sur l'apprentissage automatique, l'innovation à faibles ressources, ainsi que des solutions d'apprentissage automatique à faible coût. De plus, nous espérons ouvrir la voie à une culture de la recherche scientifique académique et industrielle.
 
-> Read the full [proposal](../Proposal_EdgeAI_Workshop.pdf)
+> Read the full [proposal](https://docs.google.com/document/d/1dgBsLMrqyAVxe4JV_jcRNG6UyznqPrUEtyD3ySehvsc/edit?usp=sharing)
+
+## Dates
+### 28 - 29 Juillet 2023
 
 ## Objectifs de l'atelier
 
@@ -60,7 +64,7 @@
 ---
 
 ## Calendrier
-> L'atelier devrait avoir lieu les 7 et 8 juillet. Reportez-vous à [Calendrier](./program/) pour le calendrier provisoire actuel de l'événement.
+> L'atelier devrait avoir lieu les 28 et 29t juillet. Reportez-vous à [Calendrier](./program/) pour le calendrier provisoire actuel de l'événement.
 
 ## Participation
 Intéressé à participer? Nous avons présenté deux modes pour les participants potentiels en conséquence :
@@ -68,7 +72,7 @@ Intéressé à participer? Nous avons présenté deux modes pour les participant
 ### Le formulaire de Candidature
 Un formulaire de candidature est ouvert pour les participations générales, se référer à [apply](./application/).
 
-### Call for Papers / Participations
+### Appel à l'Atelier / Participations
 Joignez-vous à l'activité en tant que présentateur d'un projet de recherche ou d'une poster. Nous invitons les chercheurs à soumettre des articles. En savoir plus sur le [Appel](./call_paper/).
 
 ## Contact

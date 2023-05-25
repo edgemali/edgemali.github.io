@@ -1,6 +1,6 @@
-# Calendar (Temptative)
+# Calendar / Program (Temptative)
 
-## Day I (July 7th)
+## Day I (July 28th)
 
 | ***Program*** | ***Activities*** | ***Description*** |
 |---------------|------------------|-------------------|
@@ -14,7 +14,7 @@
 | 05:00 pm - 05:45 pm | **Mentors presentation, Q/A,  Reflective Discussions** | Mentor assignment. Q/A |
 | 05:45 pm - 06:00 pm | **Day Closing notes** | Closing notes |
 
-## DAY II (July 8th)
+## DAY II (July 29th)
 
 | ***Program*** | ***Activities*** | ***Description*** |
 |---------------|------------------|-------------------|

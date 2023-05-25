@@ -1,11 +1,15 @@
-# ML at the Edge: Cheaper AI (Jul 7th - 8th)
+# ML at the Edge: Cheaper AI
 
 ## Announcements
+- [**05/28 @ 2p.m UTC**] Workshop's Question / Answer session (link TBA)
 
 ## Abstract
 > The inadequate availability of resources poses a significant challenge for researchers in the Sahel region to conduct effective research. However, recent advancements in Machine Learning present several opportunities for research and intelligent solutions in the developing world. Addressing the issue of limited resources itself is a promising area for researchers in the region. To that end, the workshop will focus on Edge AI as a case study and seek to bring together researchers, aspiring researchers, practitioners, and students to delve into machine learning research, low-resource innovation, and cost-effective machine learning solutions. The overarching goal of the workshop is to foster a culture of scientific research both academically and industrially.
 
-> Read the full [proposal](../Proposal_EdgeAI_Workshop.pdf)
+> Read the full [proposal](https://docs.google.com/document/d/1dgBsLMrqyAVxe4JV_jcRNG6UyznqPrUEtyD3ySehvsc/edit?usp=sharing)
+
+## Dates
+### Jul 28th - 29th 2023
 
 ## Workshop Objectives
 
@@ -60,7 +64,7 @@
 ---
 
 ## Calendar
-> The workshop is expected to take place on July 7th - July 8th. Refer to [calendar](./program/) for the present temptative calendar for the event.
+> The workshop is expected to take place on July 28th - July 29th. Refer to [calendar](./program/) for the present temptative calendar for the event.
 
 ## Participation
 > Interested in participating? We have presented two modes for prospective participants accordingly, they are:

@@ -1,6 +1,6 @@
-# Calendrier (Tentative)
+# Calendrier / Programme (Tentative)
 
-## Journée I (7 Juillet)
+## Journée I (28 Juillet)
 
 | ***Programme*** | ***Activités*** | ***Description*** |
 |-----------------|-----------------|-------------------|
@@ -14,7 +14,7 @@
 | 05:00 pm - 05:45 pm | **Présentation des mentors, questions/réponses, discussions réflexives** | Mission de mentorat. Q/R |
 | 05:45 pm - 06:00 pm | **Notes de clôture du jour** | Notes de clôture |
 
-## Journée II (8 Juillet)
+## Journée II (29 Juillet)
 
 | ***Programme*** | ***Activités*** | ***Description*** |
 |-----------------|-----------------|-------------------|
