@@ -1,7 +1,8 @@
 # ML à la périphérie : IA moins chère
 
 ## Annonces
-- [**05/27 à 14h00**] Séance de questions/réponses de l'atelier (link TBA)
+- [**06/11 @ 17h00 UTC**] Session de questions/réponses de l'atelier [Meet](https://meet.google.com/isd-ycah-ete)
+- [**05/28 @ 2p.m UTC**] Session de questions/réponses de l'atelier [Espace Q/A](https://twitter.com/mali_ml223/status/1664694832353234953)
 
 ## Aperçu
 

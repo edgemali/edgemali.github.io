@@ -1,7 +1,8 @@
 # ML at the Edge: Cheaper AI
 
 ## Announcements
-- [**05/28 @ 2p.m UTC**] Workshop's Question / Answer session (link TBA)
+- [**06/11 @ 5p.m UTC**] Workshop's Question / Answer session [Meet](https://meet.google.com/isd-ycah-ete)
+- [**05/28 @ 2p.m UTC**] Workshop's Question / Answer session [Q/A space](https://twitter.com/mali_ml223/status/1664694832353234953)
 
 ## Abstract
 > The inadequate availability of resources poses a significant challenge for researchers in the Sahel region to conduct effective research. However, recent advancements in Machine Learning present several opportunities for research and intelligent solutions in the developing world. Addressing the issue of limited resources itself is a promising area for researchers in the region. To that end, the workshop will focus on Edge AI as a case study and seek to bring together researchers, aspiring researchers, practitioners, and students to delve into machine learning research, low-resource innovation, and cost-effective machine learning solutions. The overarching goal of the workshop is to foster a culture of scientific research both academically and industrially.
